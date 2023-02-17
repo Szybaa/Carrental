@@ -5,64 +5,65 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarRental
 build_property.RootNamespace = CarRental
-build_property.ProjectDir = C:\Users\potte\Desktop\Projekty\CarRental\Carrental\CarRental\CarRental\
+build_property.ProjectDir = C:\Users\Szyba\Desktop\Projekt\CarRental\CarRental\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\potte\Desktop\Projekty\CarRental\Carrental\CarRental\CarRental
+build_property.MSBuildProjectDirectory = C:\Users\Szyba\Desktop\Projekt\CarRental\CarRental
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Account/GetUsers.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Account/GetUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxHZXRVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Account/Login.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Account/Register.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Car/Create.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Car/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Car/Get.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Car/Get.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEdldC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Car/Update.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Car/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Home/Index.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Order/Create.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Order/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Order/GetOrders.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Order/GetOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0T3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/_ViewImports.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/_ViewStart.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/potte/Desktop/Projekty/CarRental/Carrental/CarRental/CarRental/Views/Shared/_Layout.cshtml]
+[C:/Users/Szyba/Desktop/Projekt/CarRental/CarRental/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pihumplo1e

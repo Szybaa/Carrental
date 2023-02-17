@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\potte\\Desktop\\Projekty\\CarRental\\Carrental\\CarRental\\CarRental\\CarRental.csproj": {}
+    "C:\\Users\\Szyba\\Desktop\\Projekt\\CarRental\\CarRental\\CarRental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\potte\\Desktop\\Projekty\\CarRental\\Carrental\\CarRental\\CarRental\\CarRental.csproj": {
+    "C:\\Users\\Szyba\\Desktop\\Projekt\\CarRental\\CarRental\\CarRental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\potte\\Desktop\\Projekty\\CarRental\\Carrental\\CarRental\\CarRental\\CarRental.csproj",
+        "projectUniqueName": "C:\\Users\\Szyba\\Desktop\\Projekt\\CarRental\\CarRental\\CarRental.csproj",
         "projectName": "CarRental",
-        "projectPath": "C:\\Users\\potte\\Desktop\\Projekty\\CarRental\\Carrental\\CarRental\\CarRental\\CarRental.csproj",
-        "packagesPath": "C:\\Users\\potte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\potte\\Desktop\\Projekty\\CarRental\\Carrental\\CarRental\\CarRental\\obj\\",
+        "projectPath": "C:\\Users\\Szyba\\Desktop\\Projekt\\CarRental\\CarRental\\CarRental.csproj",
+        "packagesPath": "C:\\Users\\Szyba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Szyba\\Desktop\\Projekt\\CarRental\\CarRental\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\potte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Szyba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
